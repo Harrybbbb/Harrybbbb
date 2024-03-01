@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👨‍💻 All of my projects are available at [harry09.tiiny.site](harry09.tiiny.site)
+- 👨‍💻 All of my projects are available at <a href="harry09.tiny.site"></a>
 
 - 💬 Ask me about **react,node and css**
 
