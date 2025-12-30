@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Birla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **codEZy**
+- 🔭 I’m currently working on **Triochat**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **NestJs**
 
 - 💬 Ask me about **react,node and css**
 
