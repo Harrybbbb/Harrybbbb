@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrybbbb&label=Profile%20views&color=0e75b6&style=flat" alt="harrybbbb" /> </p>
 
-- 🔭 I’m currently working on [Triochat](http://triochat.io/)
+- 🔭 I’m currently working on [duochat](http://duochat.io/)
 
 - 🌱 I’m currently learning **NestJs, coolify**
 
