@@ -95,9 +95,6 @@ feat: pepsico data management portal (Next.js + TanStack)
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=harrybbbb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F9CF9&icon_color=4F9CF9&text_color=c9d1d9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrybbbb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F9CF9&text_color=c9d1d9" />
-
 <br/>
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Harrybbbb&theme=github_dark)
