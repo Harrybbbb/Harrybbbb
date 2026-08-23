@@ -100,7 +100,7 @@ feat: pepsico data management portal (Next.js + TanStack)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harrybbbb)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Harrybbbb&theme=github_dark)
 
 </div>
 
